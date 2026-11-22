@@ -7,7 +7,7 @@
         "start": "node sample.js"
     },
     "dependencies": {
-        "dotenv": "^16.4.5",
+        "dotenv": "^17.4.2",
         "googleapis": "^171.4.0",
         "mime-types": "^2.1.35"
     }
